@@ -1,4 +1,4 @@
-remote_theme: WildCodeSchool/workshops-jekyll-theme
+remote_theme: https://github.com/WildCodeSchool/workshops-jekyll-theme
 
 # disable the jekyll-titles-from-headings plugin,
 # so first h1 will not be used as prior title of you page
@@ -11,7 +11,7 @@ defaults:
     values:
       layout: "default" # possible values: default or tic-tac
 
-style: dev # possible values: dev, data, ciber, design or wild.
+style: agorski # possible values: dev, data, ciber, design, wild or agorski (custom).
 title: Group review on React
 description: ""
 # type: ''

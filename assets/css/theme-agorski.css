@@ -1,0 +1,19 @@
+:root {
+    --main-color: #1A56DB;
+    --main-color-light: #dde8fb;
+    --main-color-200: #c3d7f7;
+    --main-color-inverse: var(--white);
+
+    --main-color-banner: var(--white);
+    --main-color-banner-inverse: var(--main-color);
+    --main-color-navbar: transparent;
+    --main-color-navbar-inverse: var(--dark);
+
+    --warning-color: #5b8cf0;
+    --warning-color-inverse: #1D1D1B;
+
+    --info-color: #a9c4f5;
+    --info-color-inverse: #1D1D1B;
+
+    --main-link-color: var(--main-color);
+}
