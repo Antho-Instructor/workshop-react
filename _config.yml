@@ -1,7 +1,7 @@
 remote_theme: Antho-Instructor/workshop-theme
 
 # disable the jekyll-titles-from-headings plugin,
-# so first h1 will not be used as prior title of you page
+# so first h1 will not be used as prior title Eof you page
 titles_from_headings:
   enabled: false
 
@@ -11,7 +11,7 @@ defaults:
     values:
       layout: "default" # possible values: default or tic-tac
 
-style: agorski # possible values: dev, data, ciber, design, wild or agorski (custom).
+style: agorski # possible values: agorski, dev, data, ciber or design.
 title: Group review on React
 description: ""
 # type: ''
