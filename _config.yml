@@ -1,4 +1,4 @@
-remote_theme: https://github.com/WildCodeSchool/workshops-jekyll-theme
+remote_theme: Antho-Instructor/workshop-theme
 
 # disable the jekyll-titles-from-headings plugin,
 # so first h1 will not be used as prior title of you page
